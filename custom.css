@@ -1,0 +1,9 @@
+/* custom */
+.spolu {
+ 	font-weight: bold;
+ 	border-top:solid 1px #ccc;
+}
+
+.centered {
+	text-align: center;
+} 
