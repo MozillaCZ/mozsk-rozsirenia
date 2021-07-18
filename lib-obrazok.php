@@ -1,4 +1,4 @@
-<?
+<?php
 
 function bp_img_vyrobZmenseninu($aCesta, $aObrazok, $aNazov) 
 {
